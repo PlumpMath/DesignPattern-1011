@@ -1,0 +1,9 @@
+E:\file\study\code\Builder\Builder\bin\Debug\Builder.exe
+E:\file\study\code\Builder\Builder\bin\Debug\Builder.pdb
+E:\file\study\code\Builder\Builder\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\file\study\code\Builder\Builder\obj\x86\Debug\Builder.Form1.resources
+E:\file\study\code\Builder\Builder\obj\x86\Debug\Builder.Properties.Resources.resources
+E:\file\study\code\Builder\Builder\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\file\study\code\Builder\Builder\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\file\study\code\Builder\Builder\obj\x86\Debug\Builder.exe
+E:\file\study\code\Builder\Builder\obj\x86\Debug\Builder.pdb

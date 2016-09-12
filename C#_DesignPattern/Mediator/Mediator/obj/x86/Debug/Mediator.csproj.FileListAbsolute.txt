@@ -1,0 +1,5 @@
+E:\file\study\code\Mediator\Mediator\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\file\study\code\Mediator\Mediator\bin\Debug\Mediator.exe
+E:\file\study\code\Mediator\Mediator\bin\Debug\Mediator.pdb
+E:\file\study\code\Mediator\Mediator\obj\x86\Debug\Mediator.exe
+E:\file\study\code\Mediator\Mediator\obj\x86\Debug\Mediator.pdb

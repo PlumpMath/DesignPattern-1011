@@ -1,0 +1,5 @@
+E:\file\study\code\Resume\Resume\bin\Debug\Resume.exe
+E:\file\study\code\Resume\Resume\bin\Debug\Resume.pdb
+E:\file\study\code\Resume\Resume\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\file\study\code\Resume\Resume\obj\x86\Debug\Resume.exe
+E:\file\study\code\Resume\Resume\obj\x86\Debug\Resume.pdb

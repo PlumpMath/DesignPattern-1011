@@ -1,0 +1,14 @@
+﻿生成启动时间为 2016/9/11 19:43:21。
+     1>项目“E:\file\study\code\Strategy\Strategy\Strategy.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“Debug\Strategy_Pattern.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         所有输出均为最新。
+         d:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\Strategy_Pattern.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt CashContext.cpp
+         CashContext.cpp
+     1>e:\file\study\code\strategy\strategy\cashcontext.h(4): error C2143: 语法错误 : 缺少“;”(在“using”的前面)
+     1>已完成生成项目“E:\file\study\code\Strategy\Strategy\Strategy.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.35

@@ -1,0 +1,5 @@
+E:\file\study\code\Stock\Stock\bin\Debug\Stock.exe
+E:\file\study\code\Stock\Stock\bin\Debug\Stock.pdb
+E:\file\study\code\Stock\Stock\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\file\study\code\Stock\Stock\obj\x86\Debug\Stock.exe
+E:\file\study\code\Stock\Stock\obj\x86\Debug\Stock.pdb

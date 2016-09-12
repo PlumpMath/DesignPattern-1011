@@ -1,0 +1,5 @@
+E:\file\study\code\Memento\Memento\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\file\study\code\Memento\Memento\bin\Debug\Memento.exe
+E:\file\study\code\Memento\Memento\bin\Debug\Memento.pdb
+E:\file\study\code\Memento\Memento\obj\x86\Debug\Memento.exe
+E:\file\study\code\Memento\Memento\obj\x86\Debug\Memento.pdb
