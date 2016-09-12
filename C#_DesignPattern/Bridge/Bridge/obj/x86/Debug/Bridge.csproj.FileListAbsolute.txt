@@ -1,0 +1,5 @@
+E:\file\study\code\Bridge\Bridge\bin\Debug\Bridge.exe
+E:\file\study\code\Bridge\Bridge\bin\Debug\Bridge.pdb
+E:\file\study\code\Bridge\Bridge\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\file\study\code\Bridge\Bridge\obj\x86\Debug\Bridge.exe
+E:\file\study\code\Bridge\Bridge\obj\x86\Debug\Bridge.pdb

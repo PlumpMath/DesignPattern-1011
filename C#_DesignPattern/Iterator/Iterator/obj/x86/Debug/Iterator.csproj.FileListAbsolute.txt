@@ -1,0 +1,5 @@
+E:\file\study\code\Iterator\Iterator\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\file\study\code\Iterator\Iterator\bin\Debug\Iterator.exe
+E:\file\study\code\Iterator\Iterator\bin\Debug\Iterator.pdb
+E:\file\study\code\Iterator\Iterator\obj\x86\Debug\Iterator.exe
+E:\file\study\code\Iterator\Iterator\obj\x86\Debug\Iterator.pdb

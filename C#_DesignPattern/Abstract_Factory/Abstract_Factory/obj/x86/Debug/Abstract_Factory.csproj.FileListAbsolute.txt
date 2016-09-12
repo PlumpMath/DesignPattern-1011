@@ -1,0 +1,6 @@
+E:\file\study\code\Abstract_Factory\Abstract_Factory\bin\Debug\Abstract_Factory.exe
+E:\file\study\code\Abstract_Factory\Abstract_Factory\bin\Debug\Abstract_Factory.pdb
+E:\file\study\code\Abstract_Factory\Abstract_Factory\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\file\study\code\Abstract_Factory\Abstract_Factory\obj\x86\Debug\Abstract_Factory.exe
+E:\file\study\code\Abstract_Factory\Abstract_Factory\obj\x86\Debug\Abstract_Factory.pdb
+E:\file\study\code\Abstract_Factory\Abstract_Factory\bin\Debug\Abstract_Factory.exe.config

@@ -1,0 +1,9 @@
+E:\file\study\code\商场管理软件\商场管理软件\bin\Debug\商场管理软件.exe
+E:\file\study\code\商场管理软件\商场管理软件\bin\Debug\商场管理软件.pdb
+E:\file\study\code\商场管理软件\商场管理软件\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\file\study\code\商场管理软件\商场管理软件\obj\x86\Debug\商场管理软件.Form1.resources
+E:\file\study\code\商场管理软件\商场管理软件\obj\x86\Debug\商场管理软件.Properties.Resources.resources
+E:\file\study\code\商场管理软件\商场管理软件\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\file\study\code\商场管理软件\商场管理软件\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\file\study\code\商场管理软件\商场管理软件\obj\x86\Debug\商场管理软件.exe
+E:\file\study\code\商场管理软件\商场管理软件\obj\x86\Debug\商场管理软件.pdb

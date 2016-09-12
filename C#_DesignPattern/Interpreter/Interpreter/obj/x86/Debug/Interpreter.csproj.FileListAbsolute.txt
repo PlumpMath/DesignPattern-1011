@@ -1,0 +1,5 @@
+E:\file\study\code\Interpreter\Interpreter\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\file\study\code\Interpreter\Interpreter\bin\Debug\Interpreter.exe
+E:\file\study\code\Interpreter\Interpreter\bin\Debug\Interpreter.pdb
+E:\file\study\code\Interpreter\Interpreter\obj\x86\Debug\Interpreter.exe
+E:\file\study\code\Interpreter\Interpreter\obj\x86\Debug\Interpreter.pdb

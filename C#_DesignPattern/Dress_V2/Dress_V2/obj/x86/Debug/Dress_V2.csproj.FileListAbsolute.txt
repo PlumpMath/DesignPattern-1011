@@ -1,0 +1,5 @@
+E:\file\study\code\Dress_V2\Dress_V2\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\file\study\code\Dress_V2\Dress_V2\bin\Debug\Dress_V2.exe
+E:\file\study\code\Dress_V2\Dress_V2\bin\Debug\Dress_V2.pdb
+E:\file\study\code\Dress_V2\Dress_V2\obj\x86\Debug\Dress_V2.exe
+E:\file\study\code\Dress_V2\Dress_V2\obj\x86\Debug\Dress_V2.pdb

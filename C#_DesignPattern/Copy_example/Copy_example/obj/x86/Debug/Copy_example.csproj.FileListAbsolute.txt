@@ -1,0 +1,5 @@
+E:\file\study\code\Copy_example\Copy_example\bin\Debug\Copy_example.exe
+E:\file\study\code\Copy_example\Copy_example\bin\Debug\Copy_example.pdb
+E:\file\study\code\Copy_example\Copy_example\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\file\study\code\Copy_example\Copy_example\obj\x86\Debug\Copy_example.exe
+E:\file\study\code\Copy_example\Copy_example\obj\x86\Debug\Copy_example.pdb

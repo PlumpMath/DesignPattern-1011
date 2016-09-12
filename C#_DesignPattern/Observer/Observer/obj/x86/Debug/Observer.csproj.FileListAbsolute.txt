@@ -1,0 +1,5 @@
+E:\file\study\code\Observer\Observer\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\file\study\code\Observer\Observer\bin\Debug\Observer.exe
+E:\file\study\code\Observer\Observer\bin\Debug\Observer.pdb
+E:\file\study\code\Observer\Observer\obj\x86\Debug\Observer.exe
+E:\file\study\code\Observer\Observer\obj\x86\Debug\Observer.pdb
